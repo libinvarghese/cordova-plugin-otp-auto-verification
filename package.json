@@ -1,9 +1,9 @@
 {
-  "name": "OTPAutoVerification",
-  "version": "0.0.7",
-  "description": "A plugin for Autoverification of OTP",
+  "name": "cordova-plugin-otp-auto-verification",
+  "version": "0.0.6",
+  "description": "This plugin is for otp auto verificaion. NOTE: This plugin is available only for android.",
   "cordova": {
-    "id": "OTPAutoVerification",
+    "id": "cordova-plugin-otp-auto-verification",
     "platforms": [
       "android"
     ]
